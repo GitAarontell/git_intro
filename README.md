@@ -1,1 +1,2 @@
-"Aaron Bertell" 
+Aaron Bertell 
+bertella@oregonstate.edu
